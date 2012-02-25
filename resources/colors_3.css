@@ -1,0 +1,31 @@
+
+
+body {
+	background: #ddccf0;
+}
+
+h1, h2, h3 {
+    color: #68006c;
+}
+
+
+#header  {
+	border-bottom: 1px solid #f06c98;
+}
+
+#main {
+	border-left: 1px solid #f06c98;
+}
+
+p {
+	color: #333;
+}
+
+a {
+	color: #a92a55;
+}
+
+a:hover {
+        text-decoration: none;
+}
+
